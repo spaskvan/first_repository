@@ -1,2 +1,4 @@
 # first_repository
- Git and GitHub Intro Practice 
+ first repository for training
+
+Created for Intro to Git and GitHub from fredhutch.io
