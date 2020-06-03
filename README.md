@@ -6,3 +6,5 @@ Created for Intro to Git and GitHub from fredhutch.io
 notes.txt holds notes about the analysis
 
 results.txt contains output from the analysis
+
+Modification from the online interface
